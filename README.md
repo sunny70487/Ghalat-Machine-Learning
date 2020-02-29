@@ -19,7 +19,7 @@ pip install GML
 <br>
 <br>
 <h2>See GML in Action!!</h2> <b>
-  for Classification tasks: <br>
+  for Classification tasks: <br> <a href="https://github.com/Muhammad4hmed/Ghalat-Machine-Learning/blob/master/GMLClassifier.ipynb">GML Classifier</a>
   for Regression tasks: <br></b>
 <br>
 <h2>Function description:</h2><br>
