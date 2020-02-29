@@ -17,7 +17,7 @@ Demo is also provided! <b> <br>
   for Regression tasks: <br></b>
 <br>
 <h2>Function description:</h2><br>
-These parameters are common in both GMLRegressor and GMLClassifier<b>
+These parameters are common in both GMLRegressor and GMLClassifier<br>
     - X 
       Data column excluding the target column. it can either be a pandas dataframe or a numpy array. but please make sure your data doesn't contains missing data or non-numeric data. (clean it before passing)
     - y 
