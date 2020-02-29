@@ -12,6 +12,7 @@ In future updates many other things will also be automated like hyper parameter 
 ```
 <b>pip install GML</b>
 ```
+<br>
 <a href = "https://pypi.org/project/GML/">https://pypi.org/project/GML</a> 
 <br>
 <br>
