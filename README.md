@@ -18,9 +18,12 @@ pip install GML
 <a href = "https://pypi.org/project/GML/">https://pypi.org/project/GML</a> 
 <br>
 <br>
-<h2>See GML in Action!!</h2> <b>
-*  for Classification tasks: <a href="https://github.com/Muhammad4hmed/Ghalat-Machine-Learning/blob/master/GMLClassifier.ipynb">GML Classifier</a>
-*  for Regression tasks: <a href="https://github.com/Muhammad4hmed/Ghalat-Machine-Learning/blob/master/GMLRegressor.ipynb">GML Classifier</a> </b>
+<h2>See GML in Action!!</h2> <br>
+
+  - For Classification tasks <a href="https://github.com/Muhammad4hmed/Ghalat-Machine-Learning/blob/master/GMLClassifier.ipynb">GML Classifier</a>
+  - For Regression tasks <a href="https://github.com/Muhammad4hmed/Ghalat-Machine-Learning/blob/master/GMLRegressor.ipynb">GML Regressor</a> 
+
+
 <br>
 <h2>Function description:</h2><br>
 These parameters are common in both GMLRegressor and GMLClassifier<br>
