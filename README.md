@@ -25,24 +25,25 @@ These parameters are common in both GMLRegressor and GMLClassifier<br>
   Below parameters are optional.
     - metric
       metric on which you want to test your model. by default, it is mean-squared-error for regression and accuracy score for classification
-    - test_Size 
+    
+    * test_Size 
       size to split your test data, by default = 0.3 (70% training 30% testing)
-    - folds (only in GMLClassifier)
+    * folds (only in GMLClassifier)
       Data will also be validated using KFolds. pass number of folds. by default folds = 5
-    - shuffle
+    * shuffle
       Shuffle the data when spliting for validation. by default = True
-    - scaler
+    * scaler
       for Scaler pass:  
         'SS' for StandardScalar
         'MM' for MinMaxScalar
         'log' for Log scalar
          None for not scaling
       by default: StandardScalar
-    - models
+    * models
       You got your own models to make them compete with our models? pass them in a list here. default = None
-    - neural_net
+    * neural_net
       Want to train on Neural Networks? Pass 'Yes', default = 'No'
-    - epochs
+    * epochs
       for neural networks, by default = 10 
-    - verbose
+    * verbose
       for neural networks, by default = True
