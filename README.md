@@ -9,9 +9,11 @@ In future updates many other things will also be automated like hyper parameter 
 <br>
 <br>
 <h2>Install it: </h2> <br>
+
+```python
+pip install GML
 ```
-<b>pip install GML</b>
-```
+
 <br>
 <a href = "https://pypi.org/project/GML/">https://pypi.org/project/GML</a> 
 <br>
