@@ -1,0 +1,3 @@
+[console_scripts]
+GhalatML = GhalatML.cli:main
+

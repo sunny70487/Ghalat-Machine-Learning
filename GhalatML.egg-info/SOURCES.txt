@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+GhalatML/Ghalat_Machine_Learning.py
+GhalatML.egg-info/PKG-INFO
+GhalatML.egg-info/SOURCES.txt
+GhalatML.egg-info/dependency_links.txt
+GhalatML.egg-info/entry_points.txt
+GhalatML.egg-info/requires.txt
+GhalatML.egg-info/top_level.txt
