@@ -54,6 +54,13 @@ These parameters are common in both GMLRegressor and GMLClassifier<br>
       for neural networks, by default = 10 
     * verbose
       for neural networks, by default = True
+      
+  Parameter when creating object of GML <br>
+  ```python
+  models = Ghalat_Machine_Learning(n_estimators=300)
+  ```
+  * by default n_estimators are 300, you can change it to whatever you want.
+
 
 As its first version of GML, feel free to give suggestions,ask questions,report bugs etc in issues portion of this repository!<br>
 you can directly contact me at: <font color="blue"> m.ahmed.memonn@gmail.com</font>
