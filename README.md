@@ -9,7 +9,11 @@ In future updates many other things will also be automated like hyper parameter 
 <br>
 <br>
 <b>Install it: </b> <br>
-<style>
-p.solid {border-style: solid;}
-</style>
-<p class="solid">pip install GML</p>
+> <b>pip install GML</b>
+<br>
+<br>
+Demo is also provided! <b> <br>
+  for Classification tasks: <br>
+  for Regression tasks: <br>
+<br>
+Function description:<br>
