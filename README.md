@@ -1,4 +1,4 @@
-<h1>GML - Ghalat Machine Learning!</h1>
+<h1>GML - Ghalat Machine Learning! <img src="https://cdn2.iconfinder.com/data/icons/artificial-intelligence-6/64/ArtificialIntelligence9-512.png" alt="Brain+Machine" height="38" width="38"> </img> <img src="https://cdn2.iconfinder.com/data/icons/artificial-intelligence-6/64/ArtificialIntelligence15-512.png" alt="Adding AI" height="38" width="38"> </img> <img src="https://cdn1.iconfinder.com/data/icons/science-technology-outline/91/Science__Technology_35-512.png" alt="Revolution" height="38" width="38"> </img>  </h1>
 
 <b>Tired of training multiple models and then picking the best among them? No worries now! GML is here for you!</b>
 <br>
