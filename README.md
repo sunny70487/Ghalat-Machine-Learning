@@ -32,8 +32,8 @@ pip install GML
 <br>
 <h2>See GML in Action!!</h2> <br>
   
-  - For Auto Feature Engineering and AUTO Machine Learning for classification task:
-  - For Auto Feature Engineering and AUTO Machine Learning for regression task:
+  - For Auto Feature Engineering and AUTO Machine Learning for classification task: <a href = "https://github.com/Muhammad4hmed/Ghalat-Machine-Learning/blob/master/DEMO/Classification.ipynb">AUTO FEATURE ENGINEERING WITH AUTO MACHINE LEARNING (CLASSIFICATION TASK) </a>
+  - For Auto Feature Engineering and AUTO Machine Learning for regression task: <a href = "https://github.com/Muhammad4hmed/Ghalat-Machine-Learning/blob/master/DEMO/Regression.ipynb">AUTO FEATURE ENGINEERING WITH AUTO MACHINE LEARNING (REGRESSION TASK) </a>
 
 
 <br>
