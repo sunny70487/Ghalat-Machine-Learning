@@ -1,7 +1,8 @@
 <h1>GML - Ghalat Machine Learning! <img src="https://cdn2.iconfinder.com/data/icons/artificial-intelligence-6/64/ArtificialIntelligence9-512.png" alt="Brain+Machine" height="38" width="38"> </img> <img src="https://cdn2.iconfinder.com/data/icons/artificial-intelligence-6/64/ArtificialIntelligence15-512.png" alt="Adding AI" height="38" width="38"> </img> <img src="https://cdn1.iconfinder.com/data/icons/science-technology-outline/91/Science__Technology_35-512.png" alt="Revolution" height="38" width="38"> </img>  </h1>
 
 [![Generic badge](https://img.shields.io/badge/Feature_Engineering-AUTO-<COLOR>.svg)](https://github.com/Muhammad4hmed/Ghalat-Machine-Learning)
-[![Generic badge](https://img.shields.io/badge/Machine_Learning-AUTO-<COLOR>.svg)](https://github.com/Muhammad4hmed/Ghalat-Machine-Learning) <br>
+[![Generic badge](https://img.shields.io/badge/Machine_Learning-AUTO-<COLOR>.svg)](https://github.com/Muhammad4hmed/Ghalat-Machine-Learning) 
+[![Generic badge](https://img.shields.io/badge/NLP_Classification-NOT_AUTO-RED.svg)](https://github.com/Muhammad4hmed/Ghalat-Machine-Learning) <br>
 [![PyPI version](https://badge.fury.io/py/GML.svg)](https://pypi.org/project/GML)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.org/project/GML/)
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.org/project/GML/)
